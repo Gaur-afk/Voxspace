@@ -4,3 +4,6 @@ websockets
 python-multipart
 pydantic
 faster-whisper
+anthropic
+python-dotenv
+httpx
